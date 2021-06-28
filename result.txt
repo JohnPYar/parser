@@ -1,0 +1,19 @@
+{
+    "main-categories": {
+        "Пластиковые панели": "https://pvhmarket.ru/catalog/paneli_plastikovye/",
+        "МДФ панели": "https://pvhmarket.ru/catalog/mdf_paneli/",
+        "Стеновые панели": "https://pvhmarket.ru/catalog/listovye_paneli/",
+        "Фартуки для кухни": "https://pvhmarket.ru/catalog/fartuki_dlya_kukhni/",
+        "Все для окон": "https://pvhmarket.ru/catalog/vse_dlya_okon/",
+        "Межкомнатные двери": "https://pvhmarket.ru/catalog/dveri/",
+        "Все для пола": "https://pvhmarket.ru/catalog/napolnye/",
+        "Входные двери": "https://pvhmarket.ru/catalog/vkhodnye_dveri/",
+        "Отделочные уголки и профили из ПВХ": "https://pvhmarket.ru/catalog/stroitelnye_ugly/",
+        "Ширмы для комнаты": "https://pvhmarket.ru/catalog/shirmy_/",
+        "Экраны на батареи отопления": "https://pvhmarket.ru/catalog/dekorativnye_ekrany/",
+        "Клей, герметики, очистители": "https://pvhmarket.ru/catalog/kleevye_materialy/",
+        "Все для дома": "https://pvhmarket.ru/catalog/tovary_pervoy_neobkhodimosti_/",
+        "Сайдинг": "https://pvhmarket.ru/catalog/sayding/",
+        "Супер SALE": "https://pvhmarket.ru/catalog/rasprodazha/"
+    }
+}
